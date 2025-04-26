@@ -6,7 +6,7 @@ The code is written in **Python** using **TensorFlow** or **PyTorch** (depending
 
 ## Features
 
-- **YOLOv1 Algorithm**: Single neural network predicting bounding boxes and class probabilities.
+- **YOLO Algorithm**: Single neural network predicting bounding boxes and class probabilities.
 - **Indoor Object Detection**: Specifically adapted for detecting objects in indoor scenes.
 - **Real-time Performance**: Focus on achieving fast inference suitable for real-time applications.
 - **Custom Dataset Support**: Easily adaptable to different indoor datasets.
@@ -28,7 +28,7 @@ The notebook includes:
 
 - **Introduction to Object Detection**: Brief explanation of object detection challenges and YOLO approach.
 - **YOLOv1 Model Overview**: Architecture details and explanation of how YOLOv1 works.
-- **Model Implementation**: Building or using a YOLOv1 model for object detection.
+- **Model Implementation**: Building or using a YOLO model for object detection.
 - **Training and Evaluation**: Training the model (if applicable) or running inference on a dataset.
 - **Visualization**: Displaying predicted bounding boxes and detected objects on images.
 
