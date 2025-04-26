@@ -1,6 +1,6 @@
-# Indoor Object Detection Using YOLOv1
+# Indoor Object Detection Using YOLO
 
-This repository contains an implementation of **indoor object detection** using the **YOLOv1** (You Only Look Once) algorithm.  
+This repository contains an implementation of **indoor object detection** using the **YOLO** (You Only Look Once) algorithm.  
 It demonstrates how deep learning models can be used for fast and accurate object detection in indoor environments.  
 The code is written in **Python** using **TensorFlow** or **PyTorch** (depending on your notebook setup).
 
